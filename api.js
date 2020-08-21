@@ -1,7 +1,7 @@
 // import md5 from '@/components/js-md5/src/md5.js'
 
-// const serverUrl = 'https://www.b5yc.com/Car_2_0'
-const serverUrl = 'https://www.baoyanghui.com/Car_2_0'
+// const serverUrl = ''
+const serverUrl = ''
 const timeout = 15000
 export class Api {
 	static async _request(url, method, params) {
